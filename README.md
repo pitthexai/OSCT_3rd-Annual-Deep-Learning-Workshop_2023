@@ -1,4 +1,4 @@
-# The 3rd Annual Deep Learning Workshop presented by The OSCT at Marquette University: March 24th, 2023
+# The 3rd Annual Deep Learning Workshop presented by the OSCT at Marquette University: March 24th, 2023
 
 ## Deep CNNs
 
