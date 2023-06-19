@@ -14,7 +14,7 @@ The talk in Deep CNN architectures will include a hands-on-practice on image seg
 If you are going to take advantages of [<strong>Google Colab</strong>](https://colab.research.google.com/notebooks/welcome.ipynb), and try to use this amzing collaborative environment for the proposed hands-on-practice, please follow the below steps, respectively. All we need is an stable internet connection and a browser! 
 
 
-1) <strong> Dataset </strong>: Please down the dataset available in this repository. 
+1) <strong> Dataset </strong>: Please download the dataset available in this repository. 
 
 23) <strong>Code/Implementation</strong>: The code is also available in this GitHub repository. 
 
